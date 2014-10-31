@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+			<main>
+				<article>
+					<h1></h1>
+					<p></p>
+				</article>
+				<article>
+					<h1></h1>
+					<p></p>
+				</article>
+				<article>
+					<h1></h1>
+					<p></p>
+				</article>
+			</main>
+]]></content>
+				<tabTrigger>mainh</tabTrigger>
+</snippet>
+	
