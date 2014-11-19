@@ -1,0 +1,28 @@
+body{
+	background: silver;
+	font-family: sans-serif;
+}
+.element{
+	width: 280px;
+	height: 500px;
+	background: white;
+}
+	.element img{
+		width: 250px;
+		height: 250px;
+	}
+	.text{
+		margin-left: 20px;
+	}
+	.button{
+		margin:80px 0px 0px 20px;
+
+
+	}
+	.button input{
+		background: black;
+		color: white;
+		width: 150px;
+		height: 50px;
+		font-size: 20px;
+	}

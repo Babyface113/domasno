@@ -1,0 +1,16 @@
+body{
+	background: #c3c3c3;
+	padding: 150px 0px 0px 400px;
+}
+.article{
+	width: 194px;
+	height: 400px;
+	background: white;
+}
+	.article h3{
+		margin: 30px 0px 0px 30px;	
+	}
+	.article span{
+		margin: 30px 0px 0px 30px;
+		color: gray;
+	}
